@@ -9,5 +9,5 @@ I do this in 3 steps:
 
 
 # Code & Visualizations
-Do take a look at the explanatory blog post and visualization of the data at Notion [here](https://www.notion.so/akalank/Are-the-official-COVID-related-mortality-figures-in-the-US-accurate-A-forecasting-exercise-using-a--e81f4e29ccd047c78392c3d6b1445e1b). To see the same post without leaving this repository, view the markdown version of the post here: [Code & Visualization](https://github.com/akalankjayakumar/US-COVID-Mortality/blob/main/Code%20%26%20Visualization.md).
+Do take a look at the explanatory blog post and visualization of the data at Notion [here](https://www.notion.so/akalank/Are-the-official-COVID-related-mortality-figures-in-the-US-accurate-A-forecasting-exercise-using-a--e81f4e29ccd047c78392c3d6b1445e1b). To see the same post without leaving this repository, view the markdown version of the post here: [Code & Visualization](https://github.com/akp-j/US-COVID-Mortality/blob/main/Code%20%26%20Visualization.md).
 
