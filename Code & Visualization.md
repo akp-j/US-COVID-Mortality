@@ -1,9 +1,9 @@
 # Are the official COVID-related mortality figures in the US accurate? A forecasting exercise using a seasonal ARIMA model.
 
-Official COVID death statistics can be misleading. Because the symptoms of COVID are very similar to other flu like symptoms, there may have been a large number of people who never got tested for  COVID. Further, even though deaths due to other reasons (say, cardiac arrests) might have been triggered by COVID, they may not be entered in official records as a COVID-related death. For this reason, I use a forecasting exercise to see if the official US COVID death count makes sense. I also include a simpler explanation that can be useful to people without statistical training at [the very end of this post](https://www.notion.so/Are-the-official-COVID-related-mortality-figures-in-the-US-accurate-A-forecasting-exercise-using-a--e81f4e29ccd047c78392c3d6b1445e1b?pvs=21). I use the US data for ease of data availability, as the CDC (Centers for Disease Control and Prevention) provides weekly death statistics from 2014 to the present date. 
+Official COVID death statistics can be misleading. Because the symptoms of COVID are very similar to other flu like symptoms, there may have been a large number of people who never got tested for  COVID. Further, even though deaths due to other reasons (say, cardiac arrests) might have been triggered by COVID, they may not be entered in official records as a COVID-related death. For this reason, I use a forecasting exercise to see if the official US COVID death count makes sense. I also include a simpler explanation that can be useful to people without statistical training at the very end of this post. I use the US data for ease of data availability, as the CDC (Centers for Disease Control and Prevention) provides weekly death statistics from 2014 to the present date. 
 
 <aside>
-💡 You can find the R code to replicate this analysis at in the 'Code' folder of this repo.
+💡 You can find the R code to replicate this analysis in the 'Code' folder of this repo.
 
 </aside>
 <br>
