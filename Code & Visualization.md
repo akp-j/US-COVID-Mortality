@@ -4,9 +4,8 @@ Official COVID death statistics can be misleading. Because the symptoms of COVID
 
 <aside>
 💡 You can find the R code to replicate this analysis in the 'Code' folder of this repo.
-
 </aside>
-<br>
+<br><br>
 
 The exercise proceeds follows: 
 
